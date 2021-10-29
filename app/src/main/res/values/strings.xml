@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Second Store</string>
+    <string name="splash_image">splash_image</string>
+    <string name="search">Search</string>
+    <string name="prod_a">
+        The iPhone 11 features dual 12 MP Ultra Wide (13mm) and Wide (26mm) cameras with 4K video recording up to 60 fps. The Ultra Wide camera provides 120° field of view, letting you capture four times more scene, and the Wide camera provides 100% Focus Pixels for up to three times faster autofocus in low light.
+    </string>
+    <string name="prod_b">
+        Powerful Performance – Take on everything from professional-quality editing to action-packed gaming with ease. The Apple M1 chip with an 8-core CPU delivers up to 3.5x faster performance than the previous generation while using way less power
+    </string>
+    <string name="prod_c">
+
+Keep your devices well-charged at all time with this Mi power bank. While its dual USB input helps you charge two devices together, its smart power management lets you switch it to 2-hour low charging mode to charge low-power devices with ease.
+    </string>
+    <string name="prod_d">
+        Battery life is good so far with some setting turn of which i never use and when i use i turn those on and i use it in power saving mode all the time so a full day with light gaming of 1hr or more using camera for 1hr or more listening music in my car on youtube and Bluetooth on for couple of hours it gives me full day of battery varying from 4/5 to 6/7 hours sot per day
+    </string>
+    <string name="prod_e">
+        Apple-designed M1 chip for a giant leap in CPU, GPU, and machine learning performance
+        8-core CPU packs up to 3x faster performance to fly through workflows quicker than eve
+    </string>
+    <string name="prod_f">
+        GPS model lets you take calls and reply to texts from your wrist
+        Measure your blood oxygen with an all-new sensor and app</string>
+    <string name="header_Price">Price</string>
+    <string name="header_Name">Name</string>
+    <string name="header_Category">Category</string>
+    <string name="header_Condition">Condition</string>
+
+</resources>

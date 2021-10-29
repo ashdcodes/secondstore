@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/background.xml" value="0.1890625" />
+        <entry key="app/src/main/res/drawable/bg_spinner.xml" value="0.141796875" />
+        <entry key="app/src/main/res/drawable/category.xml" value="0.141796875" />
+        <entry key="app/src/main/res/drawable/category_bg.xml" value="0.141796875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.11180555555555556" />
+        <entry key="app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.141796875" />
+        <entry key="app/src/main/res/drawable/search_bg.xml" value="0.11180555555555556" />
+        <entry key="app/src/main/res/drawable/spinner_backgroun.xml" value="0.141796875" />
+        <entry key="app/src/main/res/drawable/spinner_background.xml" value="0.141796875" />
+        <entry key="app/src/main/res/drawable/spinner_bg.xml" value="0.141796875" />
+        <entry key="app/src/main/res/drawable/spinner_style.xml" value="0.11597222222222223" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_product.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.17291666666666666" />
+        <entry key="app/src/main/res/layout/header.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/list_header.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/list_item_header.xml" value="0.2" />
+        <entry key="app/src/main/res/menu/menu_item.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/tiles_view.xml" value="0.1296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
